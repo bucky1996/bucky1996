@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bucky1996
+- 👋 Hi, I’m @shubham
 - 👀 I’m interested in building softwares, learning new technologies.
 - 🌱 I’m currently learning Python and C++.
 - 💞️ I’m looking to collaborate on C/C++, Linux and Python related projects.
